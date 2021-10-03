@@ -7,7 +7,7 @@
 
 -👋 Hi, I’m Prabhash varma
 
-- 👀 I’m currently pursuing my BTech in CSE from Indian Institute of Information Technology, Sricity
+- 👀 I’m currently pursuing my BTech in **CSE** from **Indian Institute of Information Technology, Sricity**
 
 - 🌱 I’m currently learning **HTML,CSS,JS**
 
