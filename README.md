@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/prabhashvarma" target="blank"><img src="https://img.shields.io/twitter/follow/prabhashvarma?logo=twitter&style=for-the-badge" alt="prabhashvarma" /></a> </p>
 
-👋 Hi, I’m Prabhash varma 
+<!--👋 Hi, I’m Prabhash varma -->
 
 - 👀 I’m currently pursuing my BTech in **CSE** from **Indian Institute of Information Technology, Sricity**
 
