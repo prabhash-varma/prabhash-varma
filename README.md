@@ -9,7 +9,7 @@
 
 - 👀 I’m currently pursuing my BTech in **CSE** from **Indian Institute of Information Technology, Sricity**
 
-- 🌱 I’m currently learning **HTML,CSS,JS**
+- 🌱 I’m interested in development and have contributed to some open-source organisations.
 
 - 📫 How to reach me **varmaprabhash@gmail.com**
 
