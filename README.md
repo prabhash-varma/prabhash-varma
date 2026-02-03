@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRABHASH VARMA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhash-varma&label=Profile%20views&color=0e75b6&style=flat" alt="prabhash-varma" /> </p>
 
@@ -7,7 +7,7 @@
 
 <!--👋 Hi, I’m Prabhash varma -->
 
-- 👀 I’m currently pursuing my BTech in **CSE** from **Indian Institute of Information Technology, Sricity**
+- 👀 I’m pursued my BTech in **CSE** from **Indian Institute of Information Technology, Sricity**
 
 - 🌱 I’m interested in development and have contributed to some open-source organisations.
 
